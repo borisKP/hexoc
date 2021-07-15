@@ -2,13 +2,13 @@
 
 ### 配置说明：
 
-本配置由神机规则修改而来；
+  本配置由神机规则修改而来；
 
-同时参考了[@Orz-3](https://github.com/Orz-3/QuantumultX)，[@少年大佬](https://github.com/Oreomeow/QuanX)，[@Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)以及[@w37fhy](https://github.com/w37fhy/QuantumultX)（排名不分先后）的懒人配置文件再做修改。
+  同时参考了[@Orz-3](https://github.com/Orz-3/QuantumultX)，[@少年大佬](https://github.com/Oreomeow/QuanX)，[@Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)以及[@w37fhy](https://github.com/w37fhy/QuantumultX)（排名不分先后）的懒人配置文件再做修改。
 
-并且严格遵守了[@Quantumult X不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 的教程指引。
+  并且严格遵守了[@Quantumult X不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 的教程指引。
 
-修改了默认策略组，增加了正则筛选策略组，并集成了Nobyda的去广告脚本和重写，添加了最新可用的淘宝与京东比价，可按需求订阅<br>
+  修改了默认策略组，增加了正则筛选策略组，并集成了Nobyda的去广告脚本和重写，添加了最新可用的淘宝与京东比价，可按需求订阅<br>
 
 ### 使用方法：
 
