@@ -2,13 +2,13 @@
 
 ### 配置说明：
 
-  本配置由神机规则修改而来；
+   本配置由神机规则修改而来；
 
-  同时参考了[@Orz-3](https://github.com/Orz-3/QuantumultX)，[@少年大佬](https://github.com/Oreomeow/QuanX)，[@Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)以及[@w37fhy](https://github.com/w37fhy/QuantumultX)（排名不分先后）的懒人配置文件再做修改。
+   同时参考了[@Orz-3](https://github.com/Orz-3/QuantumultX)，[@少年大佬](https://github.com/Oreomeow/QuanX)，[@Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)以及[@w37fhy](https://github.com/w37fhy/QuantumultX)（排名不分先后）的懒人配置文件再做修改。
 
-  并且严格遵守了[@Quantumult X不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 的教程指引。
+   并且严格遵守了[@Quantumult X不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 的教程指引。
 
-  修改了默认策略组，增加了正则筛选策略组，并集成了Nobyda的去广告脚本和重写，添加了最新可用的淘宝与京东比价，可按需求订阅<br>
+修改了默认策略组，增加了正则筛选策略组，并集成了Nobyda的去广告脚本和重写，添加了最新可用的淘宝与京东比价，可按需求订阅<br>
 
 ### 使用方法：
 
@@ -37,21 +37,21 @@
 - 比价开启后，京东可以直接显示，淘宝显示在商品目录的"保障"栏，需要点击查看。
 - 任务（task）本人只使用了大佬配置的京东签到与什么值得买签到。需要其他请自行Google解决。
 - 本人不使用网易云音乐，但在[quantumult_remark.conf](https://github.com/borisKP/quanx/blob/master/quantumult_remark.conf)中已经写好相关的内容，删除相应的备注即可启动。
-- 测试环境基于商店版Quantumult X v1.0.23-build572
+- 测试环境基于商店版**Quantumult X v1.0.23-build572**
 - 更直觉的教程建议参考[w37fhy大佬的视频教程](https://www.youtube.com/channel/UCXdlywuMV_a8jEZ4wV6669g/videos)
 
 ### 免责声明：
 
-* BorisKp 发布的此项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
+* BorisKP 发布的此项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
-* 间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, BorisKp 对于由此引起的任何隐私泄漏或其他后果概不负责.
+* 间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, BorisKP 对于由此引起的任何隐私泄漏或其他后果概不负责.
 
 * 请勿将此项目的任何内容用于商业或非法目的，否则后果自负.
 
 * 如果任何单位或个人认为该项目的脚本可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，我们将在收到认证文件后删除相关脚本.
 
-* BorisKp 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害.
+* BorisKP 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害.
 
 * 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
 
-* 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。BorisKp 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或此项目的规则，则视为您已接受此免责声明.
+* 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。BorisKP 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或此项目的规则，则视为您已接受此免责声明.
